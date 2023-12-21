@@ -1,9 +1,8 @@
 {
  "start_url": "index.htm",
  "display": "fullscreen",
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
  "name": "Lancha mô",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png",
    "sizes": "64x64"
   }
- ]
+ ],
+ "theme_color": "#FFFFFF"
 }
